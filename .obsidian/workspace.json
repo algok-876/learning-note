@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3a21e188d7f42b",
+        "id": "e0fa371d31f990c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2bfc57138fa916ca",
+            "id": "52c21992964c50c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/其他类.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "其他类"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kotlin/其他类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "其他类 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kotlin/其他类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "其他类 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kotlin/其他类.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "其他类 的大纲"
             }
           }
         ]
@@ -161,8 +168,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2bfc57138fa916ca",
+  "active": "52c21992964c50c9",
   "lastOpenFiles": [
+    "Kotlin/attachments/Pasted image 20250615092803.png",
+    "Kotlin/attachments",
+    "Kotlin/null 安全.md",
+    "Pasted image 20250614165230.png",
+    "Kotlin/其他类.md",
     "计算机体系/未命名.md",
     "计算机体系/内存.md",
     "计算机体系"
